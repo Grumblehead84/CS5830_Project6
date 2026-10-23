@@ -1,2 +1,2 @@
-# CS5830_Project5
+# CS5830_Project6
 Linear Regression
