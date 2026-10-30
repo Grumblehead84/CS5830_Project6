@@ -2,7 +2,7 @@
 
 **CS 5830**
 
-Kevin Shaffer & Ethan
+Kevin Shaffer & Ethan Bates
 
 ## Overview
 
